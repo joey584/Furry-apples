@@ -5,10 +5,37 @@ A Minecraft resource pack that replaces the apple and golden apple textures with
 
 [![Modrinth](https://img.shields.io/badge/Modrinth-Download-1bd96a?logo=modrinth&logoColor=white)](https://modrinth.com/resourcepack/furry-apples)
 [![Discord](https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&logoColor=white)](https://discord.gg/vy9cZJsjZB)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ---
 
-## ✨ V3 Features
+## 🎃 The Halloween Edition is OFFICIALLY OUT! 🎃
+The spooky version of Furry Apples is finally here! Download it from the [Releases](../../releases) page or from [Modrinth](https://modrinth.com/resourcepack/furry-apples).
+
+### 🎃 Halloween Looks
+
+![Zombie Apple](https://cdn.modrinth.com/data/cached_images/1fb2ce2509f3e513956f991648f15a03f4663759.gif)
+![Halloween Golden Apple animation](https://cdn.modrinth.com/data/cached_images/21f5ec34d268a4290bcc754458367d6f4f03454e.gif)
+
+![Preview](https://cdn.modrinth.com/data/cached_images/fcf44c3b3b7be0b3433ed834a166096d146038a7.jpeg)
+
+![Preview](https://cdn.modrinth.com/data/cached_images/42ff721828c0cb76eced9322c3da41d607716421.jpeg)
+
+![Preview](https://cdn.modrinth.com/data/cached_images/7c5d74e0a282e30fa0e391009063f43f5bdab115_0.webp)
+
+![Preview](https://cdn.modrinth.com/data/cached_images/80d7e736dece4598ba121705855cd57807fdd74b.jpeg)
+
+### 🌟 Halloween Golden Apple Frames
+
+| Eyes open (frame 1) | Eyes closed (frame 2) |
+|---|---|
+| ![Open](https://cdn.modrinth.com/data/cached_images/a08776fb0acf96664a0dc6de060361f372e2018f.png) | ![Closed](https://cdn.modrinth.com/data/cached_images/05a674e6e0d5de7d441f89bd39441d815c5dce23.png) |
+
+The Halloween Golden Apple **will** blink just like in the GIF above. That's exactly what you'll get in the pack!
+
+---
+
+## ✨ Regular V3 Features
 - 👀 Blinking eyes
 - 🐾 Tail wag
 - 💖 Animated heart
@@ -36,7 +63,7 @@ A Minecraft resource pack that replaces the apple and golden apple textures with
 ---
 
 ## 📦 Supported Versions
-- **V2 and V3:** Minecraft 1.13 through 1.21.10 and newer
+- **V2, V3, and Halloween Edition:** Minecraft 1.13 through 1.21.10 and newer
 - **V1:** Made for 1.21.4 (may work on newer versions)
 
 > ⚠️ **"Broken or incompatible" warning?**
@@ -44,38 +71,17 @@ A Minecraft resource pack that replaces the apple and golden apple textures with
 
 ---
 
-## 🎃 Coming Soon: Halloween Edition
-A polished Halloween version of V3 is in the works (*work in progress, not final!*). It's getting close, but nothing here is final yet and it may still get polished.
-
-### 🧟 Zombie Apple
-The Halloween apple is **almost done!** It's not final though, and I may still polish it a bit more.
-
-![Zombie Apple](https://cdn.modrinth.com/data/cached_images/1fb2ce2509f3e513956f991648f15a03f4663759.gif)
-
-### 🌟 Halloween Golden Apple
-Preview of the Halloween Golden Apple:
-
-| Eyes open (frame 1) | Eyes closed (frame 2) |
-|---|---|
-| ![Open](https://cdn.modrinth.com/data/cached_images/a08776fb0acf96664a0dc6de060361f372e2018f.png) | ![Closed](https://cdn.modrinth.com/data/cached_images/05a674e6e0d5de7d441f89bd39441d815c5dce23.png) |
-
-### 🎞️ Possible Animation Preview
-Here's a GIF of how the Halloween Golden Apple **may** look when animated. This is only a rough idea. It **may** look like this, or it **may not**! Nothing is final yet.
-
-![Halloween Golden Apple animation preview](https://cdn.modrinth.com/data/cached_images/21f5ec34d268a4290bcc754458367d6f4f03454e.gif)
-
----
-
 ## 🌱 What's Next
-- Finishing and polishing the Halloween edition
 - More furry-style textures for other food items
 - A fix for the compatibility warning
-- More polish on V3
+- More polish where needed
 
 ---
 
 ## 💬 Questions or Feedback?
 Join the [Discord](https://discord.gg/vy9cZJsjZB) or open an [issue](../../issues) here on GitHub.
+
+---
 
 ## 📄 License
 This project is licensed under the [MIT License](LICENSE).
