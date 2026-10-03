@@ -45,17 +45,29 @@ A Minecraft resource pack that replaces the apple and golden apple textures with
 ---
 
 ## 🎃 Coming Soon: Halloween Edition
-A polished Halloween version of V3 is in the works (*work in progress, not final!*). Preview of the Halloween Golden Apple:
+A polished Halloween version of V3 is in the works (*work in progress, not final!*). It's getting close, but nothing here is final yet and it may still get polished.
+
+### 🧟 Zombie Apple
+The Halloween apple is **almost done!** It's not final though, and I may still polish it a bit more.
+
+![Zombie Apple](https://cdn.modrinth.com/data/cached_images/1fb2ce2509f3e513956f991648f15a03f4663759.gif)
+
+### 🌟 Halloween Golden Apple
+Preview of the Halloween Golden Apple:
 
 | Eyes open (frame 1) | Eyes closed (frame 2) |
 |---|---|
 | ![Open](https://cdn.modrinth.com/data/cached_images/a08776fb0acf96664a0dc6de060361f372e2018f.png) | ![Closed](https://cdn.modrinth.com/data/cached_images/05a674e6e0d5de7d441f89bd39441d815c5dce23.png) |
 
-The normal Halloween apple is coming soon too!
+### 🎞️ Possible Animation Preview
+Here's a GIF of how the Halloween Golden Apple **may** look when animated. This is only a rough idea. It **may** look like this, or it **may not**! Nothing is final yet.
+
+![Halloween Golden Apple animation preview](https://cdn.modrinth.com/data/cached_images/21f5ec34d268a4290bcc754458367d6f4f03454e.gif)
 
 ---
 
 ## 🌱 What's Next
+- Finishing and polishing the Halloween edition
 - More furry-style textures for other food items
 - A fix for the compatibility warning
 - More polish on V3
