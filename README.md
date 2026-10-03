@@ -77,6 +77,9 @@ Here's a GIF of how the Halloween Golden Apple **may** look when animated. This 
 ## 💬 Questions or Feedback?
 Join the [Discord](https://discord.gg/vy9cZJsjZB) or open an [issue](../../issues) here on GitHub.
 
+## 📄 License
+This project is licensed under the [MIT License](LICENSE).
+
 ---
 
 Thanks for all the support <3 Uhh, have furries as your apples I guess... and remember to stay safe :3
